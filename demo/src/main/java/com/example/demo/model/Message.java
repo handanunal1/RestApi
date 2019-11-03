@@ -4,6 +4,10 @@ public class Message {
 
 	private String content;
 
+	
+	 public Message() {
+		// TODO Auto-generated constructor stub
+	 }
 	public Message(String content) {
 		super();
 		this.content = content;
